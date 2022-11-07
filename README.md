@@ -14,4 +14,4 @@ Technical Architecture:
 •         Reducing the congestion on rail corridors and improving port connectivity.
 •         The development of two Dedicated Freight Corridors across key ports
 
-![image](https://user-images.githubusercontent.com/113196727/200384296-20727dd7-0435-4383-8dc0-af710767569e.png)
+![image](https://user-images.githubusercontent.com/113196727/200384296-20727dd7-0435-4383-8dc0-af710767569e.png =250x250)
