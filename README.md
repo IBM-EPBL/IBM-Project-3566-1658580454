@@ -11,7 +11,9 @@ The Indian Railways has a capital base of about Rs. 100000 crores and is often r
 Technical Architecture:
  
 • To regain some of the market, it has lost over past decades and regain market share in some commodities and overcome the challenges and to maintain sustainable growth in all its commodities.
+
 • Reducing the congestion on rail corridors and improving port connectivity.
+
 • The development of two Dedicated Freight Corridors across key ports
 
 <img src="https://user-images.githubusercontent.com/113196727/200384296-20727dd7-0435-4383-8dc0-af710767569e.png" width=600>
