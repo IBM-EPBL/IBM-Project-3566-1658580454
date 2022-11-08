@@ -1,2 +1,2 @@
 <h1>Important</h1>
-Need to use php server to use files.
+Need to set server using php to use files.
