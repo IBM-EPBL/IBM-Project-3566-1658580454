@@ -37,7 +37,7 @@ Technical Architecture:
 
 • All commit done by leader to clean the repository<br>
 <h2>UPDATE by Team Leaader (10/11/22) </h2><br>
-• Sprint 1,2,3 are updated and requested update.<br>
-• JIRA file updated<br>
-• A compiled pdf file of all visualization with changes in data was uploaded in Data Visualization.<br>
+• Sprint 1,2,3 are updated and requested update.<br><br>
+• JIRA file updated<br><br>
+• A compiled pdf file of all visualization with changes in data was uploaded in Data Visualization charts.<br><br>
 
