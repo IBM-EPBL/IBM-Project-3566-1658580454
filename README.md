@@ -19,7 +19,7 @@ Technical Architecture:
 
 <img src="https://user-images.githubusercontent.com/113196727/200384296-20727dd7-0435-4383-8dc0-af710767569e.png" width=600><br>
 <h2>Changes made by TeamLeader(5/10/22)</h2>
-• Deleted IBM assignment 1&2 by Neerajj(leader) and Project Empathy map)<br> <br>
+• Deleted IBM assignment 1&2 by Neerajj(leader) and Project Empathy map<br> <br>
 
 • New folder called Assignment is created.<br>
 
@@ -31,8 +31,8 @@ Technical Architecture:
 <br>
 <h2>Changes made by TeamLeader(3/11/22)</h2>
 Traffic and Capacity Analytics for Major Ports <br>
-• Moved Ideation phase,project design phase 1 and 2 to Project design and planning.  <br>
+• Moved Ideation phase,project design phase 1 and 2 to Project design and planning.<br> <br>
 
-• Created individual file for all team members in Assignment folder and moved each assignments to their respective folder. <br>
+• Created individual file for all team members in Assignment folder and moved each assignments to their respective folder. <br> <br>
 
 • All commit done by leader to clean the repository
