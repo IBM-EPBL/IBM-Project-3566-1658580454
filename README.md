@@ -30,7 +30,7 @@ Technical Architecture:
 • Reuploaded Project Empathy map in Ideation phase<br>
 <br>
 <h2>Changes made by TeamLeader(3/11/22)</h2>
-Traffic and Capacity Analytics for Major Ports <br>
+
 • Moved Ideation phase,project design phase 1 and 2 to Project design and planning.<br> <br>
 
 • Created individual file for all team members in Assignment folder and moved each assignments to their respective folder. <br> <br>
