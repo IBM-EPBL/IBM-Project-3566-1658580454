@@ -17,4 +17,11 @@ Technical Architecture:
 
 • The development of two Dedicated Freight Corridors across key ports
 
-<img src="https://user-images.githubusercontent.com/113196727/200384296-20727dd7-0435-4383-8dc0-af710767569e.png" width=600>
+<img src="https://user-images.githubusercontent.com/113196727/200384296-20727dd7-0435-4383-8dc0-af710767569e.png" width=600><br>
+<h2>Changes made by TeamLeader(5/10/22)</h2>
+Deleted IBM assignment 1&2 by Neerajj(leader) and Project Empathy map(5/10/22)<br>
+New folder called Assignment is created.(date created 5/10/22)<br>
+Reuploaded leader and one member assignments in Assignment(date: 5/10/22)<br>
+New folder Ideation phase created(5/10/22)<br>
+Reuploaded Project Empathy map in Ideation phase<br>
+<br>
