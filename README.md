@@ -17,4 +17,27 @@ Technical Architecture:
 
 • The development of two Dedicated Freight Corridors across key ports
 
-<img src="https://user-images.githubusercontent.com/113196727/200384296-20727dd7-0435-4383-8dc0-af710767569e.png" width=600>
+<img src="https://user-images.githubusercontent.com/113196727/200384296-20727dd7-0435-4383-8dc0-af710767569e.png" width=600><br>
+<h2>Changes made by TeamLeader(5/10/22)</h2>
+• Deleted IBM assignment 1&2 by Neerajj(leader) and Project Empathy map<br> <br>
+
+• New folder called Assignment is created.<br>
+
+• Reuploaded leader and one member assignments in Assignment<br>
+
+• New folder Ideation phase created<br>
+
+• Reuploaded Project Empathy map in Ideation phase<br>
+<br>
+<h2>Changes made by TeamLeader(3/11/22)</h2>
+
+• Moved Ideation phase,project design phase 1 and 2 to Project design and planning.<br> <br>
+
+• Created individual file for all team members in Assignment folder and moved each assignments to their respective folder. <br> <br>
+
+• All commit done by leader to clean the repository<br>
+<h2>UPDATE by Team Leaader (10/11/22) </h2><br>
+• Sprint 1,2,3 are updated and requested update.<br><br>
+• JIRA file updated<br><br>
+• A compiled pdf file of all visualization with changes in data was uploaded in Data Visualization charts.<br><br>
+
