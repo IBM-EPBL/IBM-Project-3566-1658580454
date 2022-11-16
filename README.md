@@ -41,3 +41,7 @@ Technical Architecture:
 • JIRA file updated<br><br>
 • A compiled pdf file of all visualization with changes in data was uploaded in Data Visualization charts.<br><br>
 
+<h2>UPDATE by Team Leaader (16/11/22) </h2><br>
+• Sprint 4 uploaded<br>
+• Jira for 16/11/22 was updated<br>
+
