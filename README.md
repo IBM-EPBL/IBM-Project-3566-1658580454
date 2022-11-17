@@ -45,5 +45,5 @@ Technical Architecture:
 • Sprint 4 uploaded<br>
 • Jira for 16/11/22 was updated<br>
 <h2>UPDATE by Team Leaader (17/11/22) </h2><br>
-• Added IBM cloud file and uploaded required files 
+• Added IBM cloud file and uploaded required files <br>
 • Added Final Deliverables
