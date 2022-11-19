@@ -49,5 +49,5 @@ Technical Architecture:
 • Added Final Deliverables file
 <br><br>
 <h2>UPDATE by Team Leaader (19/11/22) </h2><br>
-• Reuploaded Performance Testing
+• Reuploaded Performance Testing<br>
 • Uploaded UAT report and Testcase Report
