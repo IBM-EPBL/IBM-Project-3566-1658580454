@@ -47,3 +47,7 @@ Technical Architecture:
 <h2>UPDATE by Team Leaader (17/11/22) </h2><br>
 • Added IBM cloud file and uploaded required files <br>
 • Added Final Deliverables file
+<br><br>
+<h2>UPDATE by Team Leaader (19/11/22) </h2><br>
+• Reuploaded Performance Testing
+• Uploaded UAT report and Testcase Report
